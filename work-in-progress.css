@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(to bottom right, #006699 0%, #6699ff 69%);
+
+}
+
+#titre_principal {
+    font-family: 'Bangers', cursive;
+    color: white;
+
+}
+
+.titre_secondaire {
+    font-family: 'Arimo', sans-serif;
+    color: purple;
+
+}
+
+.center {
+    text-align: center;
+}
+
+#flex_footer {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+#image_1 {
+    padding-left 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    width: 396px;
+    height: 223px;
+}
+
+#image_2 {
+    padding-left 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    width: 396px;
+    height: 223px;
+}
+
+.liste_centrée {
+    margin-left: 700px;
+}
+
+.police_neutre,
+li {
+    font-family: 'Noto Sans TC', sans-serif;
+    color: white;
+    font-size: 25px;
+
+}
